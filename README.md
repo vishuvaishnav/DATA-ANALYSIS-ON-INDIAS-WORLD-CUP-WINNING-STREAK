@@ -28,6 +28,4 @@ The analysis in this notebook primarily focuses on India's performance in cricke
 The source of the data used in this analysis is not explicitly mentioned in the notebook. It's recommended to provide proper attribution if you intend to use or share this analysis, especially if the data source has specific citation requirements.
 
 ## Acknowledgments
-This analysis was created using Jupyter Notebook, and various Python libraries, including pandas and matplotlib. Thanks to the original author for sharing this analysis on GitHub.
-
-Please feel free to further extend and document this analysis, and provide proper citations if you use it in your work.
+This analysis was created using Jupyter Notebook, and various Python libraries, including pandas and matplotlib. 
